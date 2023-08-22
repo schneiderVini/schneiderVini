@@ -1,4 +1,4 @@
-### Olá, eu sou o Vinícius! 👋
+## Olá, eu sou o Vinícius! 👋
 
 - 🔭 Hoje trabalho com RPA
 - 🌱 Estou estudando SpringBoot
