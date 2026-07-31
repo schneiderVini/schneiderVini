@@ -1,7 +1,6 @@
 ## Olá, eu sou o Vinícius! 👋
 
-- 🔭 Hoje trabalho com RPA
-- 🌱 Estou estudando SpringBoot
+- 🔭 Hoje trabalho com IA e Agents
 
  <div>
   <a href="https://github.com/schneiderVini">
