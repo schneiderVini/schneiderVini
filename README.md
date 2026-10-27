@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinícius! 👋
+## Hi, I´m Vinícius! 👋
 
 - 🔭 Currently working with AI and Agents
  <div>
