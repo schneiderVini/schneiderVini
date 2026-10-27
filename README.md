@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vinícius! 👋
 
-- 🔭 Hoje trabalho com IA e Agents
-
+- 🔭 Currently working with AI and Agents
+- 
  <div>
   <a href="https://github.com/schneiderVini">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SchneiderVini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
